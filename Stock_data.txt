@@ -1,0 +1,222 @@
+[
+    {
+        "stockSymbol": "ACLBSL",
+        "closingPrice": 580.0,
+        "companyName": "Aarambha Chautari Laghubitta Bittiya Sanstha Limited",
+        "amount": 984081.0,
+        "volume": 1721,
+        "previousClosing": 580.1,
+        "maxPrice": 581.6,
+        "minPrice": 570.0,
+        "openingPrice": 572.0
+    },
+    {
+        "stockSymbol": "ADBL",
+        "closingPrice": 228.0,
+        "companyName": "Agricultural Development Bank Limited",
+        "amount": 4696870.0,
+        "volume": 20562,
+        "previousClosing": 228.1,
+        "maxPrice": 231.0,
+        "minPrice": 226.5,
+        "openingPrice": 230.9
+    },
+    {
+        "stockSymbol": "ADLB",
+        "closingPrice": 1146.6,
+        "companyName": "Adarsha Laghubitta Bittiya Sanstha Limited",
+        "amount": 306152.0,
+        "volume": 264,
+        "previousClosing": 1166.0,
+        "maxPrice": 1189.3,
+        "minPrice": 1146.6,
+        "openingPrice": 1166.0
+    },
+    {
+        "stockSymbol": "AHL",
+        "closingPrice": 346.0,
+        "companyName": "Asian Hydropower Limited",
+        "amount": 2140910.0,
+        "volume": 6162,
+        "previousClosing": 346.0,
+        "maxPrice": 354.0,
+        "minPrice": 339.0,
+        "openingPrice": 352.9
+    },
+    {
+        "stockSymbol": "AHPC",
+        "closingPrice": 295.0,
+        "companyName": "Arun Valley Hydropower Development Co. Ltd.",
+        "amount": 17713700.0,
+        "volume": 59807,
+        "previousClosing": 299.8,
+        "maxPrice": 300.0,
+        "minPrice": 294.0,
+        "openingPrice": 296.1
+    },
+    {
+        "stockSymbol": "AIL",
+        "closingPrice": 451.0,
+        "companyName": "Ajod Insurance Limited",
+        "amount": 9480720.0,
+        "volume": 20569,
+        "previousClosing": 468.0,
+        "maxPrice": 477.3,
+        "minPrice": 431.3,
+        "openingPrice": 477.3
+    },
+    {
+        "stockSymbol": "AKJCL",
+        "closingPrice": 217.5,
+        "companyName": "Ankhu Khola Jalvidhyut Company Ltd",
+        "amount": 5378970.0,
+        "volume": 24636,
+        "previousClosing": 218.0,
+        "maxPrice": 221.0,
+        "minPrice": 215.0,
+        "openingPrice": 218.0
+    },
+    {
+        "stockSymbol": "AKPL",
+        "closingPrice": 369.8,
+        "companyName": "Arun Kabeli Power Ltd.",
+        "amount": 11290800.0,
+        "volume": 30489,
+        "previousClosing": 375.0,
+        "maxPrice": 380.3,
+        "minPrice": 367.0,
+        "openingPrice": 380.3
+    },
+    {
+        "stockSymbol": "ALBSL",
+        "closingPrice": 700.0,
+        "companyName": "Asha Laghubitta Bittiya Sanstha Ltd",
+        "amount": 1601090.0,
+        "volume": 2289,
+        "previousClosing": 700.0,
+        "maxPrice": 704.9,
+        "minPrice": 695.0,
+        "openingPrice": 700.0
+    },
+    {
+        "stockSymbol": "ALICL",
+        "closingPrice": 614.2,
+        "companyName": "Asian Life Insurance Co. Limited",
+        "amount": 28216900.0,
+        "volume": 45940,
+        "previousClosing": 602.0,
+        "maxPrice": 624.0,
+        "minPrice": 593.4,
+        "openingPrice": 602.0
+    },
+    {
+        "stockSymbol": "ANLB",
+        "closingPrice": 1941.0,
+        "companyName": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
+        "amount": 4156760.0,
+        "volume": 2140,
+        "previousClosing": 1960.0,
+        "maxPrice": 1965.0,
+        "minPrice": 1926.0,
+        "openingPrice": 1965.0
+    },
+    {
+        "stockSymbol": "API",
+        "closingPrice": 234.4,
+        "companyName": "Api Power Company Ltd.",
+        "amount": 9780440.0,
+        "volume": 41396,
+        "previousClosing": 235.9,
+        "maxPrice": 239.0,
+        "minPrice": 233.0,
+        "openingPrice": 233.0
+    },
+    {
+        "stockSymbol": "AVYAN",
+        "closingPrice": 628.0,
+        "companyName": "Aviyan Laghubitta Bittiya Sanstha Limited",
+        "amount": 3512910.0,
+        "volume": 5683,
+        "previousClosing": 634.5,
+        "maxPrice": 647.1,
+        "minPrice": 609.6,
+        "openingPrice": 647.1
+    },
+    {
+        "stockSymbol": "BARUN",
+        "closingPrice": 249.0,
+        "companyName": "Barun Hydropower Co. Ltd.",
+        "amount": 8017400.0,
+        "volume": 32094,
+        "previousClosing": 249.9,
+        "maxPrice": 259.8,
+        "minPrice": 245.0,
+        "openingPrice": 254.8
+    },
+    {
+        "stockSymbol": "BBC",
+        "closingPrice": 3448.0,
+        "companyName": "Bishal Bazar Company Limited",
+        "amount": 4094920.0,
+        "volume": 1210,
+        "previousClosing": 3309.0,
+        "maxPrice": 3470.0,
+        "minPrice": 3310.0,
+        "openingPrice": 3310.0
+    },
+    {
+        "stockSymbol": "BFC",
+        "closingPrice": 306.0,
+        "companyName": "Best Finance Company Ltd.",
+        "amount": 1417990.0,
+        "volume": 4618,
+        "previousClosing": 309.0,
+        "maxPrice": 309.0,
+        "minPrice": 302.0,
+        "openingPrice": 303.0
+    },
+    {
+        "stockSymbol": "BHDC",
+        "closingPrice": 396.0,
+        "companyName": "Bindhyabasini Hydropower Development Company Limited",
+        "amount": 2815340.0,
+        "volume": 7084,
+        "previousClosing": 405.0,
+        "maxPrice": 405.0,
+        "minPrice": 393.0,
+        "openingPrice": 398.0
+    },
+    {
+        "stockSymbol": "BHL",
+        "closingPrice": 288.0,
+        "companyName": "Balephi Hydropower Limited",
+        "amount": 1551010.0,
+        "volume": 5485,
+        "previousClosing": 292.7,
+        "maxPrice": 298.0,
+        "minPrice": 280.9,
+        "openingPrice": 298.0
+    },
+    {
+        "stockSymbol": "BHPL",
+        "closingPrice": 446.0,
+        "companyName": "Barahi Hydropower Public Limited",
+        "amount": 1819960.0,
+        "volume": 4085,
+        "previousClosing": 448.9,
+        "maxPrice": 451.9,
+        "minPrice": 441.0,
+        "openingPrice": 442.0
+    },
+    {
+        "stockSymbol": "BNHC",
+        "closingPrice": 379.4,
+        "companyName": "Buddha Bhumi Nepal Hydropower Company Limited",
+        "amount": 593837.0,
+        "volume": 1593,
+        "previousClosing": 377.0,
+        "maxPrice": 383.9,
+        "minPrice": 369.6,
+        "openingPrice": 383.9
+    }
+]
